@@ -18,7 +18,8 @@ lscpu # check the number of cpu
 ```bash
 git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git # clone the repot
  export PATH = "${HOME}/ProjectFolder/depot_tools:$PATH" # add to the path
-gclient --version # test if the instalation is correct 
+gclient --version # test if the instalation is correct
+source ~/.bashrc
 ```
 ###  2.Code Recuperation
 ```bash
