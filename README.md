@@ -134,3 +134,9 @@ autoninja -C out/Default chrome   # Build the `chrome` target — autoninja auto
 ```bash
 out/Default/chrome   # Launch the freshly compiled Chromium binary directly from the build output directory
 ```
+
+if you have a problem try with 
+
+```bash
+out/Default/chrome --no-sandbox
+```
