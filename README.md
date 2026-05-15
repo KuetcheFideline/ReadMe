@@ -1,4 +1,7 @@
 # How to Build and Run Chromium for Dev
+If you want more information check  
+[Documentation Chromium](https://chromium.googlesource.com/chromium/src/+/main/docs/linux/build_instructions.md#run-chromium)
+
 
 ## System Requirements
 
